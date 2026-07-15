@@ -1,0 +1,62 @@
+	.a {}
+	
+	.a:hover {}
+	
+	.a:link {}
+	
+	.a:visited {}
+	
+	.listlink {font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; font-weight: bold;
+              color:#000000;}
+              
+A.listlink:active, A.listlink:link, A.listlink:hover, A.listlink:visited {text-decoration:none;}
+
+    .title {  font-family: Verdana, Arial,  Helvetica, sans-serif;
+              font-size: 20px; font-style: normal; text-decoration: none;font-weight: bold; 
+              color:#777777;}
+    .titlebig {  font-family: Verdana, Arial,  Helvetica, sans-serif;
+              font-size: 28px; font-style: normal; text-decoration: none;
+              color:#555555;}
+    .textbf{  font-family: Verdana, Arial, Helvetica, sans-serif;font-weight: bold;
+              font-size: 12px; font-style: normal; text-decoration: none;
+              color:#000000;}
+    .textlink  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 12px; font-style: normal; text-decoration: none;
+              color:#0000AA;}
+    .text  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 12px; font-style: normal; text-decoration: none;
+              color:#000000;}
+    .text:link  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 12px; font-style: normal; text-decoration: none;
+              color:#0000CC}
+    .text:visited  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 12px; font-style: normal; text-decoration: none;
+              color:#0000CC;}
+    .tpaltlist  {  background: #CCCCCC; background-color: #CCCCCC; font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; font-weight: bold; text-decoration: none;
+              border-bottom-color: #c0c0c0; border-bottom-style: solid; border-bottom-width: 1px;border-top-color: #c0c0c0; border-top-style: solid; border-top-width: 1px;}
+    .tplist  {  background: #f6f6f6; background-color: #f6f6f6;  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; font-weight: bold; text-decoration: none;
+              border-bottom-color: #c0c0c0; border-bottom-style: solid; border-bottom-width: 1px;border-top-color: #c0c0c0; border-top-style: solid; border-top-width: 1px;}
+    .altlist  {  background: #CCCCCC; background-color: #CCCCCC; font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; font-weight: bold; text-decoration: none;
+              border-bottom-color: #c0c0c0; border-bottom-style: solid; border-bottom-width: 1px;}
+    .list  {  background: #f6f6f6; background-color: #f6f6f6;  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; font-weight: bold; text-decoration: none;
+              border-bottom-color: #c0c0c0; border-bottom-style: solid; border-bottom-width: 1px;}
+    .listc  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; font-weight: bold; text-decoration: none;
+              color:#000000;}
+    .item  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 14px; font-style: normal; text-decoration: none;
+              color:#000000;}
+    .links {  font-family: Verdana, Arial, Helvetica, sans-serif;
+              font-size: 12px; font-style: normal; text-decoration: none;
+              color:#000000;}
+    .links:link { font-family: Verdana, Arial, Helvetica, sans-serif;
+                  font-size: 12px; font-style: normal; text-decoration: none;
+                  color:#000000;}
+    .links:visited { font-family: Verdana, Arial, Helvetica, sans-serif;
+                     font-size: 12px; font-style: normal; text-decoration: none;
+                     color:#000000;}
